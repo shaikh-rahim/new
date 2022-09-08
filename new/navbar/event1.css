@@ -1,0 +1,37 @@
+.events{
+display:grid;
+grid-template-columns:  200px  200px  200px  200px  200px;
+grid-template-rows: 200px 200px;
+column-gap: 30px;
+row-gap: 30px;
+justify-content:center;
+text-align: center;
+margin-top:10px;
+color: white;
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+body{
+    background: #190f2c;
+    padding: 15px;
+}
+.update{
+    margin-top:20px;
+    text-align: center;
+}
+.id{
+    text-align: center;
+    margin-top: 20px;  
+}
+.save{
+    margin-top:60px;
+    text-align:center;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}

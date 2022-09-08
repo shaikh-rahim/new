@@ -1,0 +1,27 @@
+body{
+    background:teal;
+    text-align: center;
+    
+}
+.result{
+    padding-top: 200px ;
+}
+.first{
+    width:10%;
+}
+.second{
+    width:20%;
+}
+.third{
+    width:30%;
+}
+button{
+    margin:5px;
+    height: 50px;
+    background: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+h1{
+    margin: 0%;
+}
